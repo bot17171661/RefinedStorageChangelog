@@ -1,0 +1,9 @@
+en:Fixed controller bugs
+Fixed errors when moving blocks with pistons
+Fixed errors from terminals
+Fixed disk drive bug
+
+ru:Исправлены баги с контроллером
+Исправлены ошибки при передвижении блоков поршнями
+Исправлены ошибки от терминалов
+Исправлен баг с дисководом
