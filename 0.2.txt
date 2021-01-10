@@ -1,0 +1,27 @@
+en:Mod rewritten for multiplayer 
+Fixed many bugs of the previous version. 
+Added a window to the terminal interface displaying information about the selected item 
+The crafting terminal, when making crafting, now takes items from inventory 
+Optimized the creation and sorting of crafts in the terminal with a workbench, in the future the sorting of items will also be optimized 
+Added a window with the "top donators" from donationalerts to the mod menu: https://www.donationalerts.com/r/bot1023123123123 
+The source code of the mod becomes available and available on github: https://github.com/bot17171661/Refined-Storage 
+Added a new block "Interface" and a few upgrades for it: 
+  This block allows you to move items to the net and get items from the net 
+  This block also supports pipes and hoppers 
+  Items from the top slots will be moved to the network, the "Speed" upgrades will increase the speed at which this happens, and with the "Stack" upgrade, the entire stack of items will be transferred at once 
+  The slots in the middle are responsible for the filter for the slots below, on the left there are settings for these slots, which allow you to turn on ignoring the date and extras (NBT) of items 
+  The lowest slots are slots that will receive items from the network that satisfy the filter
+  
+ru:Мод переписан под мультиплеер
+Исправлено множество ошибок прошлой версии
+В интерфейс терминалов добавлено окно, отображающее информацию о выбранном предмете
+Терминал с верстаком при составлении крафтов теперь учитывает предметы из инвентаря
+Оптимизировано создание и сортировка крафтов в терминале с верстаком, в будущем сортировка предметов также будет оптимизирована
+В меню мода добавлено окно с "топом донатеров" из donationalerts: https://www.donationalerts.com/r/bot1023123123123
+Исходный код мода становится открытым и доступен на гитхабе: https://github.com/bot17171661/Refined-Storage
+Добавлен новый блок "Интерфейс" и несколько улучшений для него:
+  Этот блок позволит вам перемещать предметы в сеть, а также получать предметы из сети
+  Также этот блок поддерживает трубы и воронки
+  Предметы из самых верхних слотов будут перемещены в сеть, улучшения "Скорости" будут повышать скорость с которой это будет происходить, а с улучшением "Стак" будет переноситься сразу вся стопка предметов 
+  Слоты посредине отвечают за фильтр для слотов ниже, слева есть настройки для этих слотов, которые позволят включить игнорирование даты и экстры(нбт) предметов
+  Самые нижние слоты это слоты в которые будут поступать предметы из сети удовлетворяющие фильтру
