@@ -11,7 +11,7 @@ Added a new block "Interface" and a few upgrades for it:
   Items from the top slots will be moved to the network, the "Speed" upgrades will increase the speed at which this happens, and with the "Stack" upgrade, the entire stack of items will be transferred at once 
   The slots in the middle are responsible for the filter for the slots below, on the left there are settings for these slots, which allow you to turn on ignoring the date and extras (NBT) of items 
   The lowest slots are slots that will receive items from the network that satisfy the filter
-  
+
 ru:Мод переписан под мультиплеер
 Исправлено множество ошибок прошлой версии
 В интерфейс терминалов добавлено окно, отображающее информацию о выбранном предмете
