@@ -1,0 +1,7 @@
+en:Optimized items sorting in terminals
+Fixed bugs on crafting in crafting grid 
+Fixed a few small bugs
+
+ru:Оптимизирована сортировка предметов в терминалах
+Исправлены проблемы с крафтингом
+Исправлено несколько мелких багов
