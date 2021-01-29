@@ -1,0 +1,7 @@
+en:Items in network are now stacked by extra data(NBT)
+Fixed bugs in crafting grid 
+Fixed bugs with removing blocks from network
+
+ru:Предметы в сети теперь стакаются по дополнительным данным(NBT)
+Исправлены баги в терминале с верстаком
+Исправлены баги с удалением блоков из сети
