@@ -1,0 +1,3 @@
+en:Fixed bags with crafting grid
+
+ru:Исправлены баги с терминалом с верстаком
