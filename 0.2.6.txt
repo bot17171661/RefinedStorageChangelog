@@ -1,0 +1,13 @@
+en:Now when moving blocks with pistons his inventory will be saved
+Fixed a bug with crafting in crafting terminal on older versions of the inner
+Now you cannot put anything other than discs into the drive
+Fixed bugs with blocks drop and controller dupe
+Fixed incorrect slider position when scrolling pages in terminals and controller
+Terminals no longer save a copy of items from the network in the world save
+
+ru:Теперь при передвижении блоков поршнями, содержимое будет сохранятся
+Исправлен баг при крафте в терминале на старых версиях иннера
+Теперь в дисковод нельзя ложить что-то кроме дисков
+Исправлены баги с дропом блоков и дюпом контроллеров
+Исправлено неправильное положение слайдера при прокрутке страниц в терминалах и контроллере
+Терминалы теперь не сохраняют копию предметов из сети в сейве мира
