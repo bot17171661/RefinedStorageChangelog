@@ -1,0 +1,7 @@
+en:Fixed bugs with text adaptation in the disk drive
+Fixed a crash when sending an item to the network with enabled "dev" in the config
+Fixed bug with switching redstone mode in controller
+
+ru:Исправлены баги с адаптацией текста в дисководе
+Исправлен краш при отправке предмета в сеть с включенным "dev" в конфиге
+Исправлен баг с переключением режима красного камня в контроллере
